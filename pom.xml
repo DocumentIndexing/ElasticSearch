@@ -68,8 +68,8 @@
         </plugins>
     </build>
     <scm>
-        <connection>scm:git:ssh://github.com:DocumentIndexing/ElasticSearch.git</connection>
-        <developerConnection>scm:git:ssh://github.com:DocumentIndexing/ElasticSearch.git</developerConnection>
+        <connection>scm:git:git://github.com:DocumentIndexing/ElasticSearch.git</connection>
+        <developerConnection>scm:git:git@github.com:DocumentIndexing/ElasticSearch.git</developerConnection>
 
       <tag>ElasticSearch-0.0.11</tag>
   </scm>
