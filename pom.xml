@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.g4pas.index.document.elastic</groupId>
     <artifactId>ElasticSearch</artifactId>
-    <version>0.0.10-SNAPSHOT</version>
+    <version>0.0.10</version>
     <packaging>pom</packaging>
     <build>
         <plugins>
@@ -70,7 +70,7 @@
     <scm>
         <connection>scm:git:git://github.com:DocumentIndexing/ElasticSearch.git</connection>
         <developerConnection>scm:git:git@github.com:DocumentIndexing/ElasticSearch.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ElasticSearch-0.0.10</tag>
     </scm>
     <distributionManagement>
         <repository>
