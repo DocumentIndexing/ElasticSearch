@@ -37,6 +37,7 @@
                                 <dockerFileDir>.</dockerFileDir>
                                 <tags>
                                     <tag>${project.version}</tag>
+                                    <tag>latest</tag>
                                 </tags>
                                 <assembly>
                                     <inline>
