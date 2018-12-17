@@ -69,7 +69,7 @@
     </build>
     <scm>
         <connection>scm:git:ssh://github.com:DocumentIndexing/ElasticSearch.git</connection>
-        <developerConnection>scm:git:ssh@github.com:DocumentIndexing/ElasticSearch.git</developerConnection>
+        <developerConnection>scm:git:ssh://github.com:DocumentIndexing/ElasticSearch.git</developerConnection>
 
     </scm>
     <distributionManagement>
