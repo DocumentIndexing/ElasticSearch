@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:6.5.3
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.6.1
 
 COPY maven/elasticsearch/elasticsearch.yml /usr/share/elasticsearch/config/elasticsearch.yml
 
