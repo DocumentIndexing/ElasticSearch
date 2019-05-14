@@ -31,7 +31,7 @@
                     <verbose>true</verbose>
                     <images>
                         <image>
-                            <name>guidof/documentindexer-elasticsearch:%l</name>
+                            <name>documentindexer-elasticsearch:%l</name>
                             <build>
                                 <dockerFileDir>.</dockerFileDir>
                                 <tags>
